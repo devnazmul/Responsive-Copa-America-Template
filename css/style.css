@@ -10,6 +10,7 @@ body{
 }
 /* ..........common css style............ */
 .hero{
+    overflow: hidden;
     height: 100vh;
     display: flex;
     justify-content: space-between;
